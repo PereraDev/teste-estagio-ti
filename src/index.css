@@ -50,6 +50,20 @@
   }
 }
 
+[data-theme='escuro']{
+  --text: #9ca3af;
+  --text-h: #f3f4f6;
+  --bg: #16171d;
+  --border: #2e303a; 
+}
+
+[data-theme='claro'] {
+  --text: #6b6375;
+  --text-h: #08060d;
+  --bg: #e9e9e9;
+  --border: #e5e4e7;
+}
+
 body {
   margin: 0;
 }
