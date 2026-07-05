@@ -18,6 +18,9 @@
 }
 
 .lista {
-    list-style-type: disc;
-    padding-left: 20px;
+  text-align: left;
+}
+
+.lista a {
+  overflow-wrap: break-word;
 }
