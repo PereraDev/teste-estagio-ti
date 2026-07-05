@@ -14,21 +14,13 @@ function Contato() {
         <li>
           <FaGithub /> GitHub:{" "}
           <a
-            href="https://github.com/PereraDev"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            PereraDev
+            href="https://github.com/PereraDev" target="_blank" rel="noopener noreferrer" >PereraDev<span className={styles.srOnly}> (abre em uma nova aba)</span>
           </a>
         </li>
         <li>
           <FaLinkedin /> LinkedIn:{" "}
           <a
-            href="https://www.linkedin.com/in/alex-pereira-8743a13b5"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Alex Pereira
+            href="https://www.linkedin.com/in/alex-pereira-8743a13b5" target="_blank" rel="noopener noreferrer">Alex Pereira<span className={styles.srOnly}> (abre em uma nova aba)</span>
           </a>
         </li>
       </ul>
