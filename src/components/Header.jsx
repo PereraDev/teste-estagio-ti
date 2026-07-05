@@ -1,10 +1,11 @@
 import styles from './Header.module.css';
+import fotoPerfil from '../assets/foto-perfil.jpeg';
 
 function Header() {
   return (
     <header className={styles.header}>
       <img
-        src="https://placehold.co/120"
+        src={fotoPerfil}
         alt="Foto de perfil"
         className={styles.photo}
       />
