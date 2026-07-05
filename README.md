@@ -10,7 +10,7 @@ Aplicação React em formato de currículo/apresentação pessoal, desenvolvida 
 - React
 - Vite
 - JavaScript
-- CSS
+- CSS Modules
 
 ## Como executar
 ```bash
