@@ -8,11 +8,10 @@ function Conhecimentos() {
       <ul className={styles.lista}>
         <li>HTML</li>
         <li>CSS</li>
-        <li>Python</li>
-        <li>C#</li>
         <li>JavaScript</li>
         <li>React</li>
-        <li>Node.js</li>
+        <li>C#</li>
+        <li>SQL</li>
       </ul>
     </section>
   );

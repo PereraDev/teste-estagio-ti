@@ -5,13 +5,13 @@ function Sobre() {
     <section className={styles.sobre}>
         <h2 className={styles.title}>Sobre mim</h2>
         <p className={styles.paragrafo}>
-            Olá! Meu nome é Alex Pereira, tenho 24 anos e sou um estudante da Etec Jau cursando Desenvolvimento de Software e estou estudando Defesa Cibernética na UniFECAF. Atualmente, estou em busca de uma oportunidade de estágio na área de TI para aplicar meus conhecimentos e aprender ainda mais.
+        Olá! Sou Alex Pereira, de Bocaina/Jaú (SP). Depois de 3 anos administrando minha própria operação de gestão de tráfego pago (Google Ads e Meta Ads), decidi migrar para desenvolvimento de software, aplicando a mesma bagagem analítica — leitura de métricas, testes, decisões orientadas por dados — agora na construção de sistemas.
         </p>
         <p className={styles.paragrafo}>
-            Tenho experiência em programação, iniciais em JavaScript e Python. Além disso, estou sempre buscando me atualizar sobre as últimas tendências e inovações no campo da tecnologia.
+        Já desenvolvi um sistema de gestão de hospedagem em C#/.NET, com cálculo dinâmico de diárias e regras de sazonalidade, e um site completo em HTML5/CSS3. Também tenho experiência prática com Git e GitHub para versionamento e documentação.
         </p>
         <p className={styles.paragrafo}>
-            Sou uma pessoa dedicada, proativa e com grande vontade de aprender. Acredito que um estágio em TI será uma excelente oportunidade para desenvolver minhas habilidades e contribuir para o crescimento da empresa.
+        Estou em busca de um estágio em TI para aplicar esse histórico analítico e continuar evoluindo como programador.
         </p>
     </section>
   );
