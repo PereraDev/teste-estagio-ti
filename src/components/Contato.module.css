@@ -27,3 +27,8 @@
   overflow-wrap: break-word;
   color: #555;
 }
+
+.lista svg {
+  vertical-align: middle;
+  margin-right: 4px;
+}
