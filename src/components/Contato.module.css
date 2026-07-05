@@ -13,14 +13,17 @@
 }
 
 .descricao {
-    font-size: 16px;
-    margin-bottom: 15px;
+  font-size: 16px;
+  margin-bottom: 15px;
+  color: #555;
 }
 
 .lista {
   text-align: left;
+  color: #555;
 }
 
 .lista a {
   overflow-wrap: break-word;
+  color: #555;
 }
