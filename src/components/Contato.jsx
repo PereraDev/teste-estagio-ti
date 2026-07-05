@@ -1,4 +1,4 @@
-import styles from './Contato.module.css';
+import styles from "./Contato.module.css";
 
 function Contato() {
   return (
@@ -7,11 +7,11 @@ function Contato() {
       <p className={styles.descricao}>Entre em contato comigo!</p>
       <ul className={styles.lista}>
         <li>
-          Email:{' '}
+          Email:{" "}
           <a href="mailto:pereraacompany@gmail.com">pereraacompany@gmail.com</a>
         </li>
         <li>
-          GitHub:{' '}
+          GitHub:{" "}
           <a
             href="https://github.com/PereraDev"
             target="_blank"
@@ -21,7 +21,7 @@ function Contato() {
           </a>
         </li>
         <li>
-          LinkedIn:{' '}
+          LinkedIn:{" "}
           <a
             href="https://www.linkedin.com/in/alex-pereira-8743a13b5"
             target="_blank"

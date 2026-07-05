@@ -1,10 +1,12 @@
-import styles from './Conhecimentos.module.css';
+import styles from "./Conhecimentos.module.css";
 
 function Conhecimentos() {
   return (
     <section className={styles.conhecimentos}>
       <h2 className={styles.title}>Conhecimentos</h2>
-      <p className={styles.descricao}>Conhecimentos em programação e tecnologia.</p>
+      <p className={styles.descricao}>
+        Conhecimentos em programação e tecnologia.
+      </p>
       <ul className={styles.lista}>
         <li>HTML</li>
         <li>CSS</li>
