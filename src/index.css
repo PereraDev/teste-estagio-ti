@@ -85,6 +85,7 @@ h2 {
   font-family: var(--heading);
   font-weight: 500;
   color: var(--text-h);
+  transition: color 0.3s ease;
 }
 
 h1 {
